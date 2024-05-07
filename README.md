@@ -1,4 +1,4 @@
-# F1WinnerPrediction
+# F1 Race Winner Prediction 🏎️
 
 # Problem Definition:
 The core objective of our study is to predict the likelihood of a Formula 1 driver winning a race. This prediction is based on a variety of features derived from historical data and race conditions.
